@@ -6,7 +6,7 @@
     },
     "instagram": {
       "name": "Instagram",
-      "link": ""
+      "link": "https://instagram.com/"
     },
     "x": {
       "name": "x",
@@ -30,7 +30,7 @@
     },
     "youtube": {
       "name": "YouTube",
-      "link": ""
+      "link": "https://youtube.com/"
     },
     "reddit": {
       "name": "Reddit",
@@ -90,7 +90,7 @@
     },
     "vk": {
       "name": "VKontakte",
-      "link": ""
+      "link": "https://vk.com/"
     },
     "flickr": {
       "name": "Flickr",
@@ -131,6 +131,10 @@
     "nya": {
       "name": "喵窝",
       "link": "https://nya.one/"
+    },
+    "steam": {
+      "name": "Steam",
+      "link": "https://store.steampowered.com/"
     }
   }
 }
