@@ -14,4 +14,5 @@ Social media platform in `JSON` format:
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/peppapig13132/Social-media/blob/main/CONTRIBUTING.md).
+Feel free to add your favorite platform in _social_media.json_.
+To add your ones, please read [CONTRIBUTING.md](https://github.com/peppapig13132/Social-media/blob/main/CONTRIBUTING.md).
