@@ -1,0 +1,136 @@
+{
+  "social_media": {
+    "facebook": {
+      "name": "Facebook",
+      "link": "https://www.facebook.com/"
+    },
+    "instagram": {
+      "name": "Instagram",
+      "link": ""
+    },
+    "x": {
+      "name": "x",
+      "link": "https://twitter.com/"
+    },
+    "linkedin": {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/"
+    },
+    "snapchat": {
+      "name": "Snapchat",
+      "link": ""
+    },
+    "pinterest": {
+      "name": "Pinterest",
+      "link": ""
+    },
+    "tiktok": {
+      "name": "TikTok",
+      "link": ""
+    },
+    "youtube": {
+      "name": "YouTube",
+      "link": ""
+    },
+    "reddit": {
+      "name": "Reddit",
+      "link": ""
+    },
+    "tumblr": {
+      "name": "Tumblr",
+      "link": ""
+    },
+    "whatsapp": {
+      "name": "WhatsApp",
+      "link": ""
+    },
+    "wechat": {
+      "name": "WeChat",
+      "link": ""
+    },
+    "qq": {
+      "name": "QQ",
+      "link": ""
+    },
+    "telegram": {
+      "name": "Telegram",
+      "link": ""
+    },
+    "viber": {
+      "name": "Viber",
+      "link": ""
+    },
+    "line": {
+      "name": "Line",
+      "link": ""
+    },
+    "twitch": {
+      "name": "Twitch",
+      "link": ""
+    },
+    "discord": {
+      "name": "Discord",
+      "link": ""
+    },
+    "sinaweibo": {
+      "name": "Sina Weibo",
+      "link": ""
+    },
+    "qzone": {
+      "name": "QZone",
+      "link": ""
+    },
+    "douyin": {
+      "name": "Douyin",
+      "link": ""
+    },
+    "baidutieba": {
+      "name": "Baidu Tieba",
+      "link": ""
+    },
+    "vk": {
+      "name": "VKontakte",
+      "link": ""
+    },
+    "flickr": {
+      "name": "Flickr",
+      "link": ""
+    },
+    "meetup": {
+      "name": "Meetup",
+      "link": ""
+    },
+    "tagged": {
+      "name": "Tagged",
+      "link": ""
+    },
+    "nextdoor": {
+      "name": "Nextdoor",
+      "link": ""
+    },
+    "mix": {
+      "name": "Mix",
+      "link": ""
+    },
+    "skyrock": {
+      "name": "Skyrock",
+      "link": ""
+    },
+    "badoo": {
+      "name": "Badoo",
+      "link": ""
+    },
+    "mastodon": {
+      "name": "Mastodon",
+      "link": ""
+    },
+    "medium": {
+      "name": "Medium",
+      "link": ""
+    },
+    "nya": {
+      "name": "喵窝",
+      "link": "https://nya.one/"
+    }
+  }
+}
