@@ -9,6 +9,7 @@ The following is a set of guidelines for contributing to **Social media**, which
 1. [**How Can I Contribute?**](#how-can-i-contribute)
     - [Suggesting Enhancements](#suggesting-enhancements)
     - [Pull Requests](#pull-requests)
+    - [I don't use GitHub, but want to contribute](#i-dont-use-github-but-want-to-contribute)
 2. [**Style Guides**](#style-guides)
     - [Git Commit Messages](#git-commit-messages)
 
@@ -34,6 +35,10 @@ The process described here will help you contribute to **Social media**. This is
 5. Submit a pull request.
 
 If you have an improvement or a bug fix, open an issue first and mention me - @peppapig13132.
+
+### I don't use GitHub, but want to contribute
+
+Even if you don't use GitHub, you can still contribute to the project. Please send your ideas to peppapig13132@outlook.com.
 
 ## Style Guides
 
