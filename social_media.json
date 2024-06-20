@@ -18,15 +18,15 @@
     },
     "snapchat": {
       "name": "Snapchat",
-      "link": ""
+      "link": "https://www.snapchat.com/"
     },
     "pinterest": {
       "name": "Pinterest",
-      "link": ""
+      "link": "https://www.pinterest.com/"
     },
     "tiktok": {
       "name": "TikTok",
-      "link": ""
+      "link": "https://www.tiktok.com/"
     },
     "youtube": {
       "name": "YouTube",
@@ -34,7 +34,7 @@
     },
     "reddit": {
       "name": "Reddit",
-      "link": ""
+      "link": "https://www.reddit.com/"
     },
     "tumblr": {
       "name": "Tumblr",
