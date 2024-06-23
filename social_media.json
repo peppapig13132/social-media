@@ -38,55 +38,55 @@
     },
     "tumblr": {
       "name": "Tumblr",
-      "link": ""
+      "link": "https://www.tumblr.com/"
     },
     "whatsapp": {
       "name": "WhatsApp",
-      "link": ""
+      "link": "https://www.whatsapp.com/"
     },
     "wechat": {
       "name": "WeChat",
-      "link": ""
+      "link": "https://www.wechat.com/"
     },
     "qq": {
-      "name": "QQ",
-      "link": ""
+      "name": "QQ (QQ-轻松做自己)",
+      "link": "https://im.qq.com/"
     },
     "telegram": {
       "name": "Telegram",
-      "link": ""
+      "link": "https://web.telegram.org/"
     },
     "viber": {
       "name": "Viber",
-      "link": ""
+      "link": "https://www.viber.com/"
     },
     "line": {
       "name": "Line",
-      "link": ""
+      "link": "https://line.me/en/"
     },
     "twitch": {
       "name": "Twitch",
-      "link": ""
+      "link": "https://www.twitch.tv/"
     },
     "discord": {
       "name": "Discord",
-      "link": ""
+      "link": "https://discord.com/"
     },
     "sinaweibo": {
       "name": "Sina Weibo",
-      "link": ""
+      "link": "https://weibo.com/"
     },
     "qzone": {
-      "name": "QZone",
-      "link": ""
+      "name": "QZone (手机统一登录)",
+      "link": "https://qzone.qq.com/"
     },
     "douyin": {
-      "name": "Douyin",
-      "link": ""
+      "name": "Douyin (记录美好生活)",
+      "link": "https://www.douyin.com/"
     },
     "baidutieba": {
-      "name": "Baidu Tieba",
-      "link": ""
+      "name": "Baidu Tieba (百度贴吧)",
+      "link": "https://tieba.baidu.com/"
     },
     "vk": {
       "name": "VKontakte",
@@ -94,19 +94,19 @@
     },
     "flickr": {
       "name": "Flickr",
-      "link": ""
+      "link": "https://www.flickr.com/"
     },
     "meetup": {
       "name": "Meetup",
-      "link": ""
+      "link": "https://www.meetup.com/"
     },
     "tagged": {
       "name": "Tagged",
-      "link": ""
+      "link": "https://www.tagged.com/"
     },
     "nextdoor": {
       "name": "Nextdoor",
-      "link": ""
+      "link": "https://nextdoor.com/"
     },
     "mix": {
       "name": "Mix",
@@ -118,15 +118,15 @@
     },
     "badoo": {
       "name": "Badoo",
-      "link": ""
+      "link": "https://badoo.com/"
     },
     "mastodon": {
       "name": "Mastodon",
-      "link": ""
+      "link": "https://joinmastodon.org/"
     },
     "medium": {
       "name": "Medium",
-      "link": ""
+      "link": "https://medium.com/"
     },
     "nya": {
       "name": "喵窝",
