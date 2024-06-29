@@ -135,6 +135,10 @@
     "steam": {
       "name": "Steam",
       "link": "https://store.steampowered.com/"
+    },
+    "furaffinity": {
+      "name": "Fur Affinity",
+      "link": "https://www.furaffinity.net/"
     }
   }
 }
