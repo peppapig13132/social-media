@@ -139,6 +139,10 @@
     "furaffinity": {
       "name": "Fur Affinity",
       "link": "https://www.furaffinity.net/"
+    },
+    "wattpad": {
+      "name": "wattpad",
+      "link": "https://www.wattpad.com/"
     }
   }
 }
