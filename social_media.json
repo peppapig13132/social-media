@@ -143,6 +143,10 @@
     "wattpad": {
       "name": "wattpad",
       "link": "https://www.wattpad.com/"
+    },
+    "slideshare": {
+      "name": "SlideShare",
+      "link": "https://www.slideshare.net/"
     }
   }
 }
