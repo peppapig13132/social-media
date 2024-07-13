@@ -163,6 +163,10 @@
     "fineartamerica": {
       "name": "Fine Art America",
       "link": "https://fineartamerica.com/"
+    },
+    "quora": {
+      "name": "Quora",
+      "link": "https://www.quora.com/"
     }
   }
 }
