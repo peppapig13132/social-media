@@ -147,6 +147,10 @@
     "slideshare": {
       "name": "SlideShare",
       "link": "https://www.slideshare.net/"
+    },
+    "threads": {
+      "name": "Threads",
+      "link": "https://www.threads.net/"
     }
   }
 }
