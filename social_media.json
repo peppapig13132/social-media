@@ -151,6 +151,10 @@
     "threads": {
       "name": "Threads",
       "link": "https://www.threads.net/"
+    },
+    "realself": {
+      "name": "RealSelf",
+      "link": "https://www.realself.com/"
     }
   }
 }
