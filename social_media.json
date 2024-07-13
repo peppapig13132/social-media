@@ -159,6 +159,10 @@
     "skype": {
       "name": "Skype",
       "link": "https://www.skype.com/"
+    },
+    "fineartamerica": {
+      "name": "Fine Art America",
+      "link": "https://fineartamerica.com/"
     }
   }
 }
