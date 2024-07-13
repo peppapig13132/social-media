@@ -1,6 +1,6 @@
 # Social media
 
-![Registered Platforms](https://img.shields.io/badge/Platforms-38-blue)
+![Registered Platforms](https://img.shields.io/badge/Platforms-40-blue)
 
 ## What listed in _social_media.json_?
 

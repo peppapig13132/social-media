@@ -155,6 +155,10 @@
     "realself": {
       "name": "RealSelf",
       "link": "https://www.realself.com/"
+    },
+    "skype": {
+      "name": "Skype",
+      "link": "https://www.skype.com/"
     }
   }
 }
