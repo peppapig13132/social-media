@@ -167,6 +167,14 @@
     "quora": {
       "name": "Quora",
       "link": "https://www.quora.com/"
+    },
+    "pixiv": {
+      "name": "pixiv",
+      "link": "https://www.pixiv.net/"
+    },
+    "lemon8-app": {
+      "name": "Lemon8",
+      "link": "https://www.lemon8-app.com/"
     }
   }
 }
