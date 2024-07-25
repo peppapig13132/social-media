@@ -8,7 +8,7 @@ We are always welcome to contribute to this project!
 ```
 git commit -m "Add <SOCIAL_MEDIA_PLATFORM_NAME>"
 ```
-💡Note: When you add a new platform data, please update _number of platforms_ in `README.md` as well:)
+💡Note: When you add a new platform data, please update the badge _Social_media_platforms_ in `README.md` as well:)
 
 ### 🧩 Updating Social Media Platform Data
 **We recommend using these commit templates:**
@@ -31,4 +31,4 @@ git commit -m "Delete tag(s): <SOCIAL_MEDIA_PLATFORM_NAME>"
 }
 ```
 
-💡Note: When you add/update tag data in `social_media.json`, please search if it's a new one in `tags.json`. If you can't find it there, please update `tags.json` as well:)
+💡Note: When you add/update tag data in `social_media.json`, please search if it's a new one in `tags.json`. If you can't find it there, please add it to `tags.json` and update the badge _Tags_ in `README.md` as well:)
