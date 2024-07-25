@@ -219,6 +219,11 @@
       "name": "Lemon8",
       "link": "https://www.lemon8-app.com/",
       "tags": []
+    },
+    "cara": {
+      "name": "Cara",
+      "link": "https://cara.app/",
+      "tags": ["art"]
     }
   }
 }
