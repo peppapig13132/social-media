@@ -2,179 +2,223 @@
   "social_media": {
     "facebook": {
       "name": "Facebook",
-      "link": "https://www.facebook.com/"
+      "link": "https://www.facebook.com/",
+      "tags": []
     },
     "instagram": {
       "name": "Instagram",
-      "link": "https://instagram.com/"
+      "link": "https://instagram.com/",
+      "tags": []
     },
     "x": {
       "name": "x",
-      "link": "https://twitter.com/"
+      "link": "https://twitter.com/",
+      "tags": []
     },
     "linkedin": {
       "name": "LinkedIn",
-      "link": "https://www.linkedin.com/"
+      "link": "https://www.linkedin.com/",
+      "tags": []
     },
     "snapchat": {
       "name": "Snapchat",
-      "link": "https://www.snapchat.com/"
+      "link": "https://www.snapchat.com/",
+      "tags": []
     },
     "pinterest": {
       "name": "Pinterest",
-      "link": "https://www.pinterest.com/"
+      "link": "https://www.pinterest.com/",
+      "tags": []
     },
     "tiktok": {
       "name": "TikTok",
-      "link": "https://www.tiktok.com/"
+      "link": "https://www.tiktok.com/",
+      "tags": []
     },
     "youtube": {
       "name": "YouTube",
-      "link": "https://youtube.com/"
+      "link": "https://youtube.com/",
+      "tags": []
     },
     "reddit": {
       "name": "Reddit",
-      "link": "https://www.reddit.com/"
+      "link": "https://www.reddit.com/",
+      "tags": []
     },
     "tumblr": {
       "name": "Tumblr",
-      "link": "https://www.tumblr.com/"
+      "link": "https://www.tumblr.com/",
+      "tags": []
     },
     "whatsapp": {
       "name": "WhatsApp",
-      "link": "https://www.whatsapp.com/"
+      "link": "https://www.whatsapp.com/",
+      "tags": []
     },
     "wechat": {
       "name": "WeChat",
-      "link": "https://www.wechat.com/"
+      "link": "https://www.wechat.com/",
+      "tags": []
     },
     "qq": {
       "name": "QQ (QQ-轻松做自己)",
-      "link": "https://im.qq.com/"
+      "link": "https://im.qq.com/",
+      "tags": []
     },
     "telegram": {
       "name": "Telegram",
-      "link": "https://web.telegram.org/"
+      "link": "https://web.telegram.org/",
+      "tags": []
     },
     "viber": {
       "name": "Viber",
-      "link": "https://www.viber.com/"
+      "link": "https://www.viber.com/",
+      "tags": []
     },
     "line": {
       "name": "Line",
-      "link": "https://line.me/en/"
+      "link": "https://line.me/en/",
+      "tags": []
     },
     "twitch": {
       "name": "Twitch",
-      "link": "https://www.twitch.tv/"
+      "link": "https://www.twitch.tv/",
+      "tags": []
     },
     "discord": {
       "name": "Discord",
-      "link": "https://discord.com/"
+      "link": "https://discord.com/",
+      "tags": []
     },
     "sinaweibo": {
       "name": "Sina Weibo",
-      "link": "https://weibo.com/"
+      "link": "https://weibo.com/",
+      "tags": []
     },
     "qzone": {
       "name": "QZone (手机统一登录)",
-      "link": "https://qzone.qq.com/"
+      "link": "https://qzone.qq.com/",
+      "tags": []
     },
     "douyin": {
       "name": "Douyin (记录美好生活)",
-      "link": "https://www.douyin.com/"
+      "link": "https://www.douyin.com/",
+      "tags": []
     },
     "baidutieba": {
       "name": "Baidu Tieba (百度贴吧)",
-      "link": "https://tieba.baidu.com/"
+      "link": "https://tieba.baidu.com/",
+      "tags": []
     },
     "vk": {
       "name": "VKontakte",
-      "link": "https://vk.com/"
+      "link": "https://vk.com/",
+      "tags": []
     },
     "flickr": {
       "name": "Flickr",
-      "link": "https://www.flickr.com/"
+      "link": "https://www.flickr.com/",
+      "tags": []
     },
     "meetup": {
       "name": "Meetup",
-      "link": "https://www.meetup.com/"
+      "link": "https://www.meetup.com/",
+      "tags": []
     },
     "tagged": {
       "name": "Tagged",
-      "link": "https://www.tagged.com/"
+      "link": "https://www.tagged.com/",
+      "tags": []
     },
     "nextdoor": {
       "name": "Nextdoor",
-      "link": "https://nextdoor.com/"
+      "link": "https://nextdoor.com/",
+      "tags": []
     },
     "mix": {
       "name": "Mix",
-      "link": ""
+      "link": "",
+      "tags": []
     },
     "skyrock": {
       "name": "Skyrock",
-      "link": ""
+      "link": "",
+      "tags": []
     },
     "badoo": {
       "name": "Badoo",
-      "link": "https://badoo.com/"
+      "link": "https://badoo.com/",
+      "tags": []
     },
     "mastodon": {
       "name": "Mastodon",
-      "link": "https://joinmastodon.org/"
+      "link": "https://joinmastodon.org/",
+      "tags": []
     },
     "medium": {
       "name": "Medium",
-      "link": "https://medium.com/"
+      "link": "https://medium.com/",
+      "tags": []
     },
     "nya": {
       "name": "喵窝",
-      "link": "https://nya.one/"
+      "link": "https://nya.one/",
+      "tags": []
     },
     "steam": {
       "name": "Steam",
-      "link": "https://steamcommunity.com/"
+      "link": "https://steamcommunity.com/",
+      "tags": []
     },
     "furaffinity": {
       "name": "Fur Affinity",
-      "link": "https://www.furaffinity.net/"
+      "link": "https://www.furaffinity.net/",
+      "tags": []
     },
     "wattpad": {
       "name": "wattpad",
-      "link": "https://www.wattpad.com/"
+      "link": "https://www.wattpad.com/",
+      "tags": []
     },
     "slideshare": {
       "name": "SlideShare",
-      "link": "https://www.slideshare.net/"
+      "link": "https://www.slideshare.net/",
+      "tags": []
     },
     "threads": {
       "name": "Threads",
-      "link": "https://www.threads.net/"
+      "link": "https://www.threads.net/",
+      "tags": []
     },
     "realself": {
       "name": "RealSelf",
-      "link": "https://www.realself.com/"
+      "link": "https://www.realself.com/",
+      "tags": []
     },
     "skype": {
       "name": "Skype",
-      "link": "https://www.skype.com/"
+      "link": "https://www.skype.com/",
+      "tags": []
     },
     "fineartamerica": {
       "name": "Fine Art America",
-      "link": "https://fineartamerica.com/"
+      "link": "https://fineartamerica.com/",
+      "tags": []
     },
     "quora": {
       "name": "Quora",
-      "link": "https://www.quora.com/"
+      "link": "https://www.quora.com/",
+      "tags": []
     },
     "pixiv": {
       "name": "pixiv",
-      "link": "https://www.pixiv.net/"
+      "link": "https://www.pixiv.net/",
+      "tags": []
     },
     "lemon8-app": {
       "name": "Lemon8",
-      "link": "https://www.lemon8-app.com/"
+      "link": "https://www.lemon8-app.com/",
+      "tags": []
     }
   }
 }
