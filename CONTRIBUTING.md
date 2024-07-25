@@ -8,6 +8,7 @@ We are always welcome to contribute to this project!
 ```
 git commit -m "Add <SOCIAL_MEDIA_PLATFORM_NAME>"
 ```
+💡Note: When you add a new platform data, please update _number of platforms_ in `README.md` as well:)
 
 ### 🧩 Updating Social Media Platform Data
 **We recommend using these commit templates:**
