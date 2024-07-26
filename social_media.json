@@ -229,6 +229,11 @@
       "name": "Odysee",
       "link": "https://odysee.com/",
       "tags": []
+    },
+    "boosty": {
+      "name": "boosty",
+      "link": "https://boosty.to/",
+      "tags": []
     }
   }
 }
