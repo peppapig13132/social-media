@@ -224,6 +224,11 @@
       "name": "Cara",
       "link": "https://cara.app/",
       "tags": ["art"]
+    },
+    "odysee": {
+      "name": "Odysee",
+      "link": "https://odysee.com/",
+      "tags": []
     }
   }
 }
