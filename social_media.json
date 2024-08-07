@@ -239,6 +239,11 @@
       "name": "TOYHOUSE",
       "link": "https://toyhou.se/",
       "tags": []
+    },
+    "bluesky": {
+      "name": "Bluesky",
+      "link": "https://bsky.app/",
+      "tags": []
     }
   }
 }
