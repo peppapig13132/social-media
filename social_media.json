@@ -244,6 +244,11 @@
       "name": "Bluesky",
       "link": "https://bsky.app/",
       "tags": []
+    },
+    "lovedbymen": {
+      "name": "LovedByMen",
+      "link": "https://lovedbymen.com/",
+      "tags": []
     }
   }
 }

@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![Registered Platforms](https://img.shields.io/badge/Social_media_platforms-49-blue)
-![Registered Tags](https://img.shields.io/badge/Tags-3-orange)
+![Registered Platforms](https://img.shields.io/badge/Social_media_platforms-50-blue)
+![Registered Tags](https://img.shields.io/badge/Tags-5-orange)
 </div>
 
 ## What listed in _social_media.json_ 🙄
