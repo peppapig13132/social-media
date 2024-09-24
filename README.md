@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Registered Platforms](https://img.shields.io/badge/Social_media_platforms-50-blue)
+![Registered Platforms](https://img.shields.io/badge/Social_media_platforms-51-blue)
 ![Registered Tags](https://img.shields.io/badge/Tags-5-orange)
 </div>
 

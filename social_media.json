@@ -249,6 +249,11 @@
       "name": "LovedByMen",
       "link": "https://lovedbymen.com/",
       "tags": []
+    },
+    "artstation": {
+      "name": "Artstation",
+      "link": "https://www.artstation.com/",
+      "tags": []
     }
   }
 }
