@@ -254,6 +254,11 @@
       "name": "Artstation",
       "link": "https://www.artstation.com/",
       "tags": []
+    },
+    "maven": {
+      "name": "Maven",
+      "link": "https://www.heymaven.com/",
+      "tags": []
     }
   }
 }
